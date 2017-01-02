@@ -1,6 +1,8 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+Программа для вычисления корней квадратного уравнения.
+
+Преследует только учебные цели
 
 # Project Goals
 
